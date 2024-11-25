@@ -1,6 +1,6 @@
-🌟 Job Portal 🌟
+# 🌟 Job Portal 🌟
 A role-based job portal application designed for recruiters and students. The platform allows recruiters to create job listings and manage applications, while students can apply for jobs and upload their resumes.             
-✨ Features
+# ✨ Features
       🧑‍🎓 User Portal (Student):
                 ✅ View job listings.
                 ✅ Apply for multiple jobs.
@@ -14,7 +14,7 @@ A role-based job portal application designed for recruiters and students. The pl
               👩‍🎓 Students: Access to apply for jobs.
               🏢 Recruiters: Privileges to create and manage job postings.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
         Frontend:
             🎨 React.js for UI development.
             💅 Tailwind CSS for responsive design.
@@ -25,7 +25,7 @@ A role-based job portal application designed for recruiters and students. The pl
         Authentication:
            🔑 JWT (JSON Web Tokens) for secure role-based access.
            🔒 Environment variables (.env) for sensitive data management.
-🚀 Installation and Setup
+# 🚀 Installation and Setup
         Prerequisites:
             🛠️ Node.js installed.
             🗄️ MongoDB running (locally or hosted).
